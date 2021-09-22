@@ -53,6 +53,7 @@ de.ioam.de
 dev-multiscreen.samsung.com
 device-metrics-us.amazon.com
 deviceportal.nettvservices.com
+edgesuite.net
 epg.corio.com
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -80,14 +81,19 @@ hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 i-stream.pl
 ibis.lgappstv.com
+ibs.lgappstv.com
 ichnaea.netflix.com
+info.lgsmartad.com
 infolink.pavv.co.k
 infolink.pavv.co.kr
 itv.ard.de
 lcprd1.samsungcloudsolution.net
 lcstg2.samsungcloudsolution.net
 legacyportal.nettvservices.com
+lgad.cjpowercast.com
 lgad.cjpowercast.com.edgesuite.net
+lgappstv.com
+lgtvsdp.com
 log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
@@ -127,6 +133,7 @@ pipeaota.com
 premium-videos.telly.com
 prov.samsungcloudsolution.com
 rd.samsungadhub.com
+rdx2.lgtvsdp.com
 redbutton-adproxy-lb-prod.redbutton.de
 redbutton-lb-prod.redbutton.de
 redbutton.sim-technik.de
